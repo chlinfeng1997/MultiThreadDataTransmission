@@ -1,6 +1,6 @@
 # Linux基于QT的局域网多线程数据传输系统（客户端+服务器）：
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在进行数据传输的过程中可以选择TCP或者UDP协议，TCP虽然相对而言比较复杂，具有三次握手进行连接以及四次分手断开连接，但具备可靠性，被大公司广泛使用，因此设计一种基于TCP的多线程数据传输系统来进行通信
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在进行数据传输的过程中可以选择TCP或者UDP协议，TCP虽然相对而言比较复杂，具有三次握手进行连接以及四次分手断开连接，但具备可靠性，被大公司广泛使用，因此设计一种基于TCP的多线程数据传输系统来进行通信。展示效果：https://www.bilibili.com/video/BV1FK4y1M7Cq
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
 # 客户端：
